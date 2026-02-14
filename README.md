@@ -1,4 +1,4 @@
-# 🎓 Student Record Management System
+#  Student Record Management System
 
 A console-based **Student Record Management System** written in **C programming language** that allows users to store, manage, and analyze student data efficiently.
 
@@ -6,7 +6,7 @@ This project demonstrates structured programming, data handling, and problem-sol
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The system enables users to:
 
@@ -19,24 +19,24 @@ It is designed as a **menu-driven application** for easy interaction.
 
 ---
 
-## 🚀 Features
+##  Features
 
-### ✅ Student Management
-✔ Add new student records  
-✔ Store ID, name, age, and grades  
+###  Student Management
+ Add new student records  
+ Store ID, name, age, and grades  
 
-### ✅ Data Display & Search
-✔ Display all students  
-✔ Search student by ID  
+###  Data Display & Search
+ Display all students  
+ Search student by ID  
 
-### ✅ Grade Analysis
-✔ Find **maximum and minimum grades**  
-✔ Display grades for a specific course  
-✔ Calculate **average grade** for a student  
+###  Grade Analysis
+ Find **maximum and minimum grades**  
+ Display grades for a specific course  
+ Calculate **average grade** for a student  
 
 ---
 
-## 🧠 Data Structure
+##  Data Structure
 
 Each student record includes:
 
@@ -49,7 +49,7 @@ The system supports up to **100 students**.
 
 ---
 
-## 🖥️ Program Menu
+##  Program Menu
 
 ### Main Menu
 ```
@@ -69,7 +69,7 @@ The system supports up to **100 students**.
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 ### 🔹 Insert Student
 Allows the user to enter student information and grades.
@@ -91,7 +91,7 @@ Calculates the average grade for a specific student.
 
 ---
 
-## 🛠️ How to Compile & Run
+##  How to Compile & Run
 
 ### 🔹 Using GCC
 
@@ -118,16 +118,16 @@ student_system
 
 ---
 
-## 💡 Example Use Cases
+##  Example Use Cases
 
-✅ Add students and their grades  
-✅ Search for a student instantly  
-✅ Analyze performance across courses  
-✅ Identify highest & lowest grades  
+ Add students and their grades  
+ Search for a student instantly  
+ Analyze performance across courses  
+ Identify highest & lowest grades  
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 - Data is not saved after program closes  
 - Maximum capacity: 100 students  
@@ -136,18 +136,18 @@ student_system
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
-✔ Save & load data using files  
-✔ Edit and delete student records  
-✔ Support more courses  
-✔ Add GPA calculation  
-✔ Improve input validation  
-✔ Build a graphical user interface  
+ Save & load data using files  
+ Edit and delete student records  
+ Support more courses  
+ Add GPA calculation  
+ Improve input validation  
+ Build a graphical user interface  
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 This project strengthens understanding of:
 
@@ -159,7 +159,7 @@ This project strengthens understanding of:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Laila Tarek**
 
